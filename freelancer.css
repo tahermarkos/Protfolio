@@ -182,12 +182,9 @@ header .intro-text .skills {
 section {
     padding: 20px 0;
 }
-.img-responsive-tl{/*
-    display: inline-block;
-    padding-bottom: 5px;
-    padding-top: 5px;
-  overflow: hidden;
-  border-radius: 50%;*/
+.img-responsive{
+    height: 201px;
+    max-width: 360px;
 
 }
 
